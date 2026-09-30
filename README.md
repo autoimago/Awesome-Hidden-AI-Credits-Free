@@ -10,15 +10,14 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 > ### 🌟 Featured Top Picks
 > 
-> If you want to try out the newest models (like **Claude Opus 4.8**, **GPT 5.6**, and **DeepSeek V4**), start here:
+> If you want to try out the newest models (like **Claude Opus 5**, **GPT 5.6**, and **GPT Astra**), start here:
 > 
-> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**
-> * **[Bluesminds](https://api.bluesminds.com/register?aff=lBwr):** Gives you a daily allowance so you can keep using **GPT 5.5**, **DeepSeek V4 Pro**, and **Z AI GLM5** for free
+> * **[OmniRush](https://omnirush.ai/console?ref=D633FH86):** A desktop app and CLI offering instant access to **GPT 6 Astra**, **GPT 6 Sol**, and **GPT-5.6 Sol** with a 5M daily token limit (up to 15M weekly).
 > * **[Aerolink](https://aerolink.lat/register?ref=7KR4BGK):** Gives you a $35 instant bonus and $140 in rolling credits. You can use all the latest Claude models here, including **Claude Opus 4.8**
-> * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models including **deepseek/deepseek-v4-flash-vision-exp-free** and **z-ai/glm-5.3-free**.
-> * **[OpenRouter](https://openrouter.ai/):** Provides free tier access to models including **stealth/ox-alpha**.
-> * **[TokenRouter](https://www.tokenrouter.com/models/):** Offers free access to models including **qwen/qwen3.8-max-free**.
+> * **[Zenmux](https://zenmux.ai/invite/DG81MD):** Provides free access to models as of now no frontier model
+> * **[OpenRouter](https://openrouter.ai/):** Provides free tier access to models including **stealth/space-bunny-alpha**, **qwen/qwen3.8-27b:free**
 > * **[Fish Audio](https://fish.audio/?aff=5L4U4NBNLNSEC):** Free unlimited S2.1 Pro TTS API (Valid until 31st Aug).
+> * **[AgentRouter](https://agentrouter.org/register?aff=qwl4):** You get a $175 starting bonus and instant access to top models like **Claude Opus 4.8**, **Claude Opus 5**, **This works based on their timing/availability**
 
 ---
 
@@ -35,9 +34,10 @@ A list of lesser-known AI platforms, proxies, and APIs that give out generous fr
 
 ## Large Language Models (LLMs)
 
+* [OmniRush](https://omnirush.ai/console?ref=D633FH86) A desktop app and CLI providing access to models like **GPT 6 Astra**, **GPT 6 Sol**, and **GPT-5.6 Sol** without an API key. It gives a 5M token limit (15M weekly cap), and each approved project built adds 5M tokens a day for 30 days.
 * [Aerolink](https://aerolink.lat/register?ref=7KR4BGK) An API proxy that gives you $140 in free credits for Claude models (Opus 4.8, Sonnet 4.6, Haiku). It starts with a $35 signup bonus
-* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, and **GPT 5.6 Sol**.
-* [Bluesminds](https://api.bluesminds.com/register?aff=lBwr) Another API aggregator with models like **GPT 5.5**, **DeepSeek V4 Pro**, **Z AI GLM5**, and Qwen. $200 free credits
+* [AgentRouter](https://agentrouter.org/register?aff=qwl4) An API aggregator where you can access Claude (Opus, Sonnet), DeepSeek V4, and GLM 5.1. It comes with a $175.00 starting bonus and instant access to models such as **Claude Opus 4.8**, **Claude Opus 5**, **This works based on their timing/availability**
+
 * [FreeLLMAPI](https://freellmapi.co/) Access 81 different free models and 114 endpoints. They give you a huge allowance of around 1.7 billion free tokens each month.
 * [Freebuff](https://freebuff.com/) An ad-supported CLI for free access to DeepSeek V4, MiMo 2.5, Kimi K2.6, and MiniMax M3. It has unlimited usage if you're okay with terminal text ads.
 * [Groq](https://console.groq.com/keys) A super fast LPU engine for open-source models. The free tier limits you to 30 requests per minute and 14,400 requests per day.
